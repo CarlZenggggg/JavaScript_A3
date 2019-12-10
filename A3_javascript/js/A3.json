@@ -1,0 +1,63 @@
+{
+"companyName" : "Weired Deals",
+"headOffice" : "WeiredDeals.com",
+"established" : 2019, 
+"active" : true,
+"productInfo" : [
+  {
+    "name" : "A bacon-scented mustache", 
+    "price" : 4.7,
+    "description" : "This is a fake mustache! It helps u look stupid", 
+    "features" : [
+      "different colours", 
+      "different shapes"
+    ],
+    "image": "51EsgLnGpNL.jpg"
+  },
+  
+  {
+    "name" : "A pigeon mask", 
+    "price" : 25.00,
+    "description" : "This is an animal musk! U don't need be real today! Feel free!", 
+    "features" : [
+      "different types of animals", 
+      "different sizes"
+    ],
+    "image": "41V-M6P2y2L.jpg"
+  },
+
+  {
+    "name" : "A Nicolas Cage sequin pillowcase", 
+    "price" : 20.00,
+    "description" : "This is a funny pillowcase! U will know how to do the magic!", 
+    "features" : [
+      "different sizes", 
+      "different colours"
+    ],
+    "image": "nicolas-cage-pillow.jpg"
+  },
+
+  {
+    "name" : "A tennis ball with a head strap", 
+    "price" : 10.00,
+    "description" : "This is a useful tools for ur pets! Save ur energy!", 
+    "features" : [
+      "different colours", 
+      "Easy for washing!"
+    ],
+    "image": "boxing-reflex-ball.jpeg"
+  },
+
+  {
+    "name" : "A baby mop", 
+    "price" : 15.00,
+    "description" : "This is a cute baby mop! Let ur babe to clean up ur house! Save ur energy and time!", 
+    "features" : [
+      "different colours", 
+      "Easy changing"
+    ],
+    "image": "baby-mop.jpg"
+  }
+  
+  ]
+}
